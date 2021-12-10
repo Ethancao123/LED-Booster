@@ -1,3 +1,0 @@
-(fp_lib_table
-  (lib (name gloworm)(type KiCad)(uri ${KIPRJMOD}/gloworm.pretty)(options "")(descr ""))
-)
