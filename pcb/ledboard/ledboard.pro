@@ -1,4 +1,4 @@
-update=Fri 10 Jul 2020 04:14:30 AM PDT
+update=12/10/2021 11:09:50 PM
 version=1
 last_client=kicad
 [general]
@@ -12,6 +12,16 @@ NetIExt=net
 version=1
 LibDir=
 [eeschema/libraries]
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=.
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
 [pcbnew]
 version=1
 PageLayoutDescrFile=
@@ -22,7 +32,7 @@ AllowMicroVias=0
 AllowBlindVias=0
 RequireCourtyardDefinitions=0
 ProhibitOverlappingCourtyards=1
-MinTrackWidth=0.15
+MinTrackWidth=0.127
 MinViaDiameter=0.5
 MinViaDrill=0.25
 MinMicroViaDiameter=0.5
@@ -32,7 +42,14 @@ TrackWidth1=0.15
 TrackWidth2=0.2
 TrackWidth3=0.25
 TrackWidth4=0.3
-TrackWidth5=0.5
+TrackWidth5=0.4
+TrackWidth6=0.5
+TrackWidth7=0.75
+TrackWidth8=1
+TrackWidth9=1.5
+TrackWidth10=2
+TrackWidth11=2.5
+TrackWidth12=3
 ViaDiameter1=0.5
 ViaDrill1=0.25
 ViaDiameter2=0.8
@@ -242,13 +259,3 @@ uViaDrill=0.25
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=.
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceAjustPassiveValues=0
-LabSize=50
-ERC_TestSimilarLabels=1
